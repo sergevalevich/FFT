@@ -183,7 +183,7 @@ public class FFT {
      ***************************************************************************/
 
     public static void main(String[] args) {
-        int N = 16;
+        int N = 4;
         Complex[] x = new Complex[N];
 
         // original data
